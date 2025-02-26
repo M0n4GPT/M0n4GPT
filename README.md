@@ -7,9 +7,9 @@
 
 - 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
 - 💻 **Full-Stack Developer** | 🐞 **Professional Bug Creator**  
-- 🌏 **Languages**: 中文 | 日本語 | English  
-- 🏙️ **Hometown**: Shanghai
+- 🌏 **Languages**: 中文 | 日本語 | English
 - 🌆 **Current Location**: New York  
+- 🏙️ **Hometown**: Shanghai
 
 ### 🎱 Fun Facts:  
 - 🔧 Used to **solder circuit boards** for a living  
