@@ -1,16 +1,16 @@
-## Hi there 👋
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<!--
-**M0n4GPT/M0n4GPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👋 About M0n4GPT!  
 
-Here are some ideas to get you started:
+- 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
+- 💻 **Full-Stack Developer** | 🐞 **Professional Bug Creator**  
+- 🌏 **Languages**: 中文 | 日本語 | English  
+- 🏙️ **Hometown**: Shanghai  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎱 Fun Facts:  
+- 🔧 Used to **solder circuit boards** for a living  
+- 🎯 Love playing **pool & snooker** (challenge me if you dare!)  
+
+### 📫 How to reach me:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yanwen-mei/)  
+
