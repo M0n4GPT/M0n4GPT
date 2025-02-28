@@ -1,4 +1,7 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2)
 
 <img align="right" alt="GIF" height="250px" src="https://github.com/M0n4GPT/M0n4GPT/blob/main/img/pusheencode.gif" />
 
