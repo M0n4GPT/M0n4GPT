@@ -9,6 +9,7 @@
 ### 👋 About M0n4GPT!  
 
 - 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
+- 🎮 **Game Developer** | Farlight84 | [![Lilith Games](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Lilith_Games_logo.svg/120px-Lilith_Games_logo.svg.png)](https://www.lilith.com/?locale=en-US)
 - 💻 **Full-Stack Developer** | 🐞 **Professional Bug Creator**  
 - 🌏 **Languages**: English | 中文 | 日本語
 - 🌆 **Current Location**: New York  
