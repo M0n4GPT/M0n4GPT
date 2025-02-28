@@ -7,7 +7,7 @@
 
 - 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
 - 💻 **Full-Stack Developer** | 🐞 **Professional Bug Creator**  
-- 🌏 **Languages**: 中文 | 日本語 | English
+- 🌏 **Languages**: English | 中文 | 日本語
 - 🌆 **Current Location**: New York  
 - 🏙️ **Hometown**: Shanghai
 
