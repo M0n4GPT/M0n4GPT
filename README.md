@@ -9,8 +9,8 @@
 ### 👋 About M0n4GPT!  
 
 - 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
-- 🎮 **Game Developer** | Farlight84 |  <a href="https://www.lilith.com/?locale=en-US">
-      <img src="https://github.com/M0n4GPT/M0n4GPT/blob/main/img/en-logo.png" alt="Lilith Games" width="50">
+- 🎮 **Game Developer** | 🔫 Farlight84 |  <a href="https://www.lilith.com/?locale=en-US">
+      <img src="https://github.com/M0n4GPT/M0n4GPT/blob/main/img/en-logo.png" alt="Lilith Games" width="75">
   </a>
 - 💻 **Full-Stack Developer** | 🐞 **Professional Bug Creator**  
 - 🌏 **Languages**: English | 中文 | 日本語
