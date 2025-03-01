@@ -22,7 +22,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yanwen-mei/)  
 [![Email](https://img.shields.io/badge/Email-asobihiru@gmail.com-blue?style=flat&logo=gmail&logoColor=ffffff)](mailto:asobihiru@gmail.com)
 
-### Languages and Tools 🛠
+### 🛠 Languages and Tools 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
