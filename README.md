@@ -1,28 +1,26 @@
 <!-- [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2)
 
 <img align="right" alt="GIF" height="250px" src="https://github.com/M0n4GPT/M0n4GPT/blob/main/img/pusheencode.gif" />
 
 
 ### 👋 About M0n4GPT!  
 
-- 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
-- 🎮 **Game Developer** | 🔫 Farlight84 |  <a href="https://www.lilith.com/?locale=en-US">
+- 🎮 **Game Developer** | 🔫 Farlight84 @  <a href="https://www.lilith.com/?locale=en-US">
       <img src="https://github.com/M0n4GPT/M0n4GPT/blob/main/img/en-logo.png" alt="Lilith Games" width="75">
   </a>
 - 💻 **Full-Stack Developer** | 🐞 **Professional Bug Creator**  
 - 🌏 **Languages**: English | 中文 | 日本語
-- 🌆 **Current Location**: New York  
-- 🏙️ **Hometown**: Shanghai
+- 🐱 **Amateur Cat-Sitter** | 🖤 🐈 🖤
+- 🌆 **Current Location**: New York City
+- 🏙️ **Born**: Shanghai
 
-### 🎱 Fun Facts:  
+### 🎱 Random Bits:  
 - 🔧 Used to **solder circuit boards** for a living  
 - 🎯 Love playing **pool & snooker** (challenge me if you dare!)  
 
 ### 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yanwen-mei/)  
+[![Email](https://img.shields.io/badge/Email-asobihiru@gmail.com-blue?style=flat&logo=gmail&logoColor=ffffff)](mailto:asobihiru@gmail.com)
 
 ### Languages and Tools 🛠
 
@@ -42,3 +40,11 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![iOS](http://img.shields.io/badge/-iOS-000000?style=flat-square&logo=ios&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=ffffff)
+
+
+### 🎧 Spotify Playing...
+
+[![Spotify](https://novatorem-xi-topaz.vercel.app/api/spotify)](https://open.spotify.com/user/315phjfmarifz4ersnlhixh4tq2m)
+
+
+
