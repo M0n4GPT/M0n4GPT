@@ -20,7 +20,7 @@
 
 ### 📫 How to reach me:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yanwen-mei/)  
-[![Email](https://img.shields.io/badge/Email-asobihiru@gmail.com-blue?style=flat&logo=gmail&logoColor=ffffff)](mailto:asobihiru@gmail.com)
+[![Email](https://img.shields.io/badge/Email-asobihiru09@gmail.com-blue?style=flat&logo=gmail&logoColor=ffffff)](mailto:asobihiru09@gmail.com)
 
 ### 🛠 Languages and Tools 
 
